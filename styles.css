@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+li{
+	display:inline;
+	float:left;
+	padding:0;
+	margin:0;
+}
